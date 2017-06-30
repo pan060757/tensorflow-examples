@@ -1,13 +1,3 @@
-<p align="center">
-    <a href="https://morvanzhou.github.io/tutorials/" target="_blank">
-    <img width="60%" src="https://github.com/MorvanZhou/tutorials/blob/master/%E7%89%87%E5%A4%B4.png" style="max-width:100%;">
-    </a>
-</p>
-
----
-
-<br>
-
 ## 这个 Python tutorial 的一些内容:
 
 * [Python 基础](https://morvanzhou.github.io/tutorials/python-basic/)
