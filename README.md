@@ -1,4 +1,5 @@
 ## 这个 Python tutorial 的一些内容:
+此项目基于python 3.5.2, tensorflow 1.2版本
 
 * [Python 基础](https://morvanzhou.github.io/tutorials/python-basic/)
   * [基础](https://morvanzhou.github.io/tutorials/python-basic/basic/)
